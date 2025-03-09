@@ -88,3 +88,21 @@ Description: mommy's here to support you~
 License: unlicense
 Vendor: none
 
+Package: mommy
+Architecture: all
+Version: 1.6.0
+Priority: optional
+Section: default
+Maintainer: Florine W. Dekker
+Installed-Size: 23
+Filename: ./mommy-1.6.0.deb
+Size: 12186
+MD5sum: 076d3a3b8e5f19dac449d4b53ed90b1b
+SHA1: c691461d73beeed9be669dd9c42d3837671dd381
+SHA256: ab1a9233cdd796256da292e4bbd6b1dc3b8ee6af43ace26bb24f473656cb4d25
+SHA512: 30dfad0f46f5efb6a128edd3cc6f1ecd8def11f5f450b98bfae5a36cc5f7a7fc9006c9ec9469dfaaef8eb6e35b644d3fd877f2064c15dc43cf2ee97fa78bcd6b
+Homepage: https://github.com/FWDekker/mommy
+Description: mommy's here to support you~
+License: unlicense
+Vendor: none
+
