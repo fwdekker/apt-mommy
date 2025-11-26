@@ -1,5 +1,5 @@
 Types: deb
-URIs: https://raw.githubusercontent.com/FWDekker/apt-mommy/main/deb/
+URIs: https://raw.githubusercontent.com/fwdekker/apt-mommy/main/deb/
 Suites: ./
 Signed-By:
  -----BEGIN PGP PUBLIC KEY BLOCK-----

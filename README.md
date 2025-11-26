@@ -1,7 +1,7 @@
 # apt-mommy 📦
-github-based apt repository for [mommy](https://github.com/FWDekker/mommy)~
+github-based apt repository for [mommy](https://github.com/fwdekker/mommy)~
 
-see [mommy](https://github.com/FWDekker/mommy) for installation instructions~
+see [mommy](https://github.com/fwdekker/mommy) for installation instructions~
 
 
 ## development ⚗️
@@ -12,9 +12,9 @@ to release a new version of mommy, simply add the new `.deb` file to the `deb/` 
 the `Packages` and `Release` files, and to compress and sign them.
 signing requires that the pgp private key is loaded.
 this is all done automatically in
-[mommy's cd action](https://github.com/FWDekker/mommy/blob/main/.github/workflows/cd.yml)~
+[mommy's cd action](https://github.com/fwdekker/mommy/blob/main/.github/workflows/cd.yml)~
 
 the pgp key was generated using gnupg 2.2.40, libgcrypt 1.10.2, using `gpg --full-gen-key` with options
 `RSA (sign only)`, key size `4096`, no expiration, my name and email address, no comment, and no passphrase.
 the resulting public key has id `5875C679DA5EE60E` and is stored in
-[deb/Release.key](https://github.com/FWDekker/apt-mommy/blob/main/deb/Release.key)~
+[deb/Release.key](https://github.com/fwdekker/apt-mommy/blob/main/deb/Release.key)~
